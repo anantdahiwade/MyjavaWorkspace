@@ -1,0 +1,16 @@
+
+public class AdditionDuplicate {
+	public static void main(String[] args) {
+		int a;
+		int b;
+		int c;
+		System.out.println(a+b);
+		System.out.println("enter number to be added");
+		
+		
+		c =a+b;
+		System.out.println(c);
+		
+		
+	}
+}
